@@ -1,0 +1,3 @@
+tkinter
+pymysql
+pycrypto
